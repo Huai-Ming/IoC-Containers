@@ -1,0 +1,7 @@
+﻿1, Install Nuget;
+2, Install Spring.Core and Common.Logging packages;
+
+
+Note:
+1,We must put the  <configSections> in the frist node of configuration.
+2,Setter and Getter.
